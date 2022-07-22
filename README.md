@@ -1,2 +1,2 @@
 # ERIS-gvAPP-pipeline
-Pipeline to extract science frames from centered, cleaned, ERIS gvAPP data
+Pipeline to calibrate and extract science frames from ERIS gvAPP data
